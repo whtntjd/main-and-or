@@ -1,9 +1,6 @@
-// #include <stdio.h>
-// main()
-// {
-//   int a=15;
-//   int b=20;
-//   int c = a&b;
+ #include <stdio.h>
 
-//   printf("AND 연산 결과 : %d", c);
-// }
+int main(void) {
+printf("Hello World\n");
+ return 0;
+ }
